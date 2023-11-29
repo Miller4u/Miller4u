@@ -3,7 +3,7 @@
 #### Design and Development
 I'm Miller from Germany a web Developer specialise on React,Javascript, HTML, Bootstrap, CSS and i also do contents on Design UI/UX
 
-Skills:  REACT / JS / HTML / CSS / UI/UX
+Skills: RUBY ON RAILS / REACT / JS / HTML / CSS / UI/UX
 
 - 🔭 I’m currently working on My own  website 
 
