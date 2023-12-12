@@ -1,11 +1,8 @@
 
 ### Hi there 👋, Miller Chidi
 #### Design and Development
-I'm Miller from Germany a web Developer specialise on React,Javascript, HTML, Bootstrap, CSS and i also do contents on Design UI/UX
+I'm Miller, a web Developer from Germany. I specialize in React, Javascript, Ruby on Rails, HTML, Bootstrap, SQL, and CSS. 
 
-Skills: RUBY ON RAILS / REACT / JS / HTML / CSS / UI/UX
+I’m currently working on My own  website 
 
-- 🔭 I’m currently working on My own  website 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://millerchidi.netlify.app)  
+📫 How to reach me: https://www.linkedin.com/in/miller-chidi/ or miller.lexa@yahoo.com
